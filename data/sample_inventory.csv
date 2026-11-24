@@ -1,0 +1,25 @@
+medicine_id,medicine_name,category,current_stock,average_daily_consumption,supplier_lead_time,safety_stock,reorder_quantity,manufacturing_date,expiry_date,supplier_name
+MED001,Paracetamol 500 mg,Analgesic,420,38,7,100,500,2025-03-01,2027-02-28,Synthetic Supplier A
+MED002,Amoxicillin 500 mg,Antibiotic,95,18,10,70,240,2025-06-15,2026-12-20,Synthetic Supplier B
+MED003,ORS Sachets,Rehydration,780,24,5,100,500,2025-09-01,2027-08-31,Synthetic Supplier C
+MED004,Metformin 500 mg,Antidiabetic,210,32,14,120,400,2025-01-12,2027-01-11,Synthetic Supplier A
+MED005,Amlodipine 5 mg,Cardiovascular,44,12,12,50,180,2025-05-20,2026-12-10,Synthetic Supplier D
+MED006,Salbutamol inhaler,Respiratory,26,4,8,12,60,2025-04-10,2026-11-30,Synthetic Supplier E
+MED007,Omeprazole 20 mg,Gastrointestinal,160,11,6,35,150,2025-08-01,2027-07-31,Synthetic Supplier B
+MED008,Cetirizine 10 mg,Antihistamine,340,16,5,50,200,2025-02-02,2027-02-01,Synthetic Supplier C
+MED009,Iron folic acid tablets,Supplement,520,28,9,100,350,2025-07-05,2027-07-04,Synthetic Supplier A
+MED010,Azithromycin 250 mg,Antibiotic,36,8,11,30,120,2025-03-18,2026-12-01,Synthetic Supplier B
+MED011,Insulin human 40 IU,Antidiabetic,58,3,7,20,50,2026-01-01,2026-12-05,Synthetic Supplier D
+MED012,Hydrocortisone cream,Dermatology,75,2,12,15,60,2025-10-10,2026-12-15,Synthetic Supplier E
+MED013,Ibuprofen 400 mg,Analgesic,190,22,6,60,250,2025-02-15,2027-02-14,Synthetic Supplier A
+MED014,ORS Zinc tablets,Rehydration,28,9,13,30,120,2025-06-01,2026-11-28,Synthetic Supplier C
+MED015,Losartan 50 mg,Cardiovascular,130,10,10,40,160,2025-09-22,2027-09-21,Synthetic Supplier D
+MED016,Vitamin A capsules,Supplement,210,5,8,25,100,2025-11-01,2026-12-22,Synthetic Supplier A
+MED017,Cotrimoxazole 400/80 mg,Antibiotic,82,14,9,50,180,2025-08-18,2027-08-17,Synthetic Supplier B
+MED018,Chlorpheniramine 4 mg,Antihistamine,17,6,7,20,100,2025-05-01,2026-11-25,Synthetic Supplier C
+MED019,Doxycycline 100 mg,Antibiotic,240,7,15,35,160,2025-01-10,2027-01-09,Synthetic Supplier B
+MED020,Calcium carbonate tablets,Supplement,420,12,8,50,200,2025-10-15,2027-10-14,Synthetic Supplier A
+MED021,Normal saline 0.9 percent,Fluid,95,9,5,35,150,2025-08-05,2026-12-18,Synthetic Supplier F
+MED022,Diclofenac 50 mg,Analgesic,65,15,12,60,200,2025-04-20,2027-04-19,Synthetic Supplier A
+MED023,Clotrimazole cream,Dermatology,38,3,10,15,75,2025-12-02,2026-11-27,Synthetic Supplier E
+MED024,Multivitamin tablets,Supplement,300,0,14,40,120,2025-03-25,2027-03-24,Synthetic Supplier A
